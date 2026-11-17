@@ -13,7 +13,9 @@ O objetivo é aplicar conhecimentos de métodos HTTP, JSON, autenticação, vali
 
 API pública de testes que permite criar, consultar, atualizar e excluir reservas.
 
-Base URL: https://restful-booker.herokuapp.com
+**Base URL:** https://restful-booker.herokuapp.com
+
+**Documentação da API:** [API Docs](https://restful-booker.herokuapp.com/apidoc/index.html)
 
 ## Ferramentas e conhecimentos aplicados
 
